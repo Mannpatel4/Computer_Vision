@@ -1,6 +1,6 @@
 # Plant Disease Classification (Custom CNN)
 
-[![Plant Disease Demo](https://img.shields.io/badge/demo-plant--disease-brightgreen)](https://https://plant-disease-classifiers.streamlit.app)
+[![Plant Disease Demo](https://img.shields.io/badge/demo-plant--disease-brightgreen)](https://plant-disease-classifiers.streamlit.app/)
 
 ##  Project Overview
 This project focuses on classifying images of plant leaves into healthy or diseased categories. The primary goal was to build a Convolutional Neural Network (CNN) completely from scratch to deeply understand image preprocessing, feature extraction, and model architecture design.
