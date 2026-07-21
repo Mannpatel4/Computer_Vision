@@ -1,5 +1,7 @@
 # Animal Species Classification (Transfer Learning)
 
+[![Animal Classifier Demo](https://img.shields.io/badge/demo-animal--classifier-blue)](https://animal-species-classifier.streamlit.app)
+
 ##  Project Overview
 This project classifies various animal species using advanced Computer Vision techniques. To achieve high accuracy and fast training times on a limited dataset, I utilized **Transfer Learning** with the **MobileNetV2** architecture, transitioning from a basic CNN approach to an industry-standard methodology.
 
